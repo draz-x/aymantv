@@ -1,0 +1,19 @@
+{
+  "token": "MTQ2NTIwMzM5ODAwNDQ0NTMwNQ.GW7pAd.oN2uSpXEnMwrNtXMdWMp8iHuyJ33DthTBe5f8o",
+  "prefix": "!",
+  "welcomeChannelId": "1465195416499916896",
+  "adminRoleId": "1465201949396963470",
+  "ytChannelId": "UCdWoq9kiySqAbCMUwjWQqLA",
+  "ytNotifyChannelId": "1465216470408495105",
+  "ytCheckInterval": 300000,
+  "kickUsername": "aymanTV",
+  "kickNotifyChannelId": "1465218279323734088",
+  "kickCheckInterval": 60000,
+  "mongoURI": "mongodb+srv://aymanbotds:byh2YlG1trOovVVs@cluster0.m2mphut.mongodb.net/?appName=Cluster0",
+  "clanCategoryId": "1465247929848565781",
+  "clanLeaderRoleId": "1465478375727562836",
+  "clanCoLeaderRoleId": "1465478421290422335",
+  "eventAnnouncementChannelId": "1465493544495087838",
+  "clientId": "1465203398004445305",
+  "guildId": "1465195415090757708"
+}
